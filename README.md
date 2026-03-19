@@ -5,8 +5,8 @@
     - Boston housing Data 활용, goolgle colab edit 활용, tensorflow,keras 라이브러리 활용
     - 결과 - 딥러닝모델로 구성시 성능향상이 있었다.
     
-2. 😄 시계열 모델 
-</pre>
+2. 😄시계열 모델 ,  3. 💔자연어 처리 모델
+       
 
 
 
@@ -20,7 +20,7 @@
 
 
 
-3. 💔자연어 처리 모델
+
     - 스미싱 문자 메세지 위험도 및 판별 모델
     -   ai_tools(D) :
          smithing_anal : 관련 모델 및 환경파일
